@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PhotoCorrection\bin\Debug\PhotoCorrection.exe.config
+C:\Users\User\source\repos\PhotoCorrection\bin\Debug\PhotoCorrection.exe
+C:\Users\User\source\repos\PhotoCorrection\bin\Debug\PhotoCorrection.pdb
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.MainForm.resources
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.Properties.Resources.resources
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.exe
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.pdb
+C:\Users\User\source\repos\PhotoCorrection\obj\Debug\PhotoCorrection.Histograms.resources
